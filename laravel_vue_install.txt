@@ -1,0 +1,17 @@
+install composer if not installed pc
+composer create-project --prefer-dist laravel/laravel laravel_vue
+composer require laravel/ui
+php artisan ui vue --auth
+download and install nodejs if not installed https://nodejs.org/en/
+npm install && npm run dev
+
+##download theme 
+	Via NPM
+		npm install admin-lte --save // theme version npm install admin-lte@v3.1.0 --save
+	Via Bower
+	bower install admin-lte
+	If bower asks which version of jQuery to use, choose version 3 or above.
+
+	Via Composer
+		composer require "almasaeed2010/adminlte=~2.4" // theme version 2.4
+##enddownload theme

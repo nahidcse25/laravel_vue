@@ -1,0 +1,3 @@
+https://www.positronx.io/create-laravel-vue-js-crud-single-page-application/
+https://github.com/shohel/laravel-vue-spa
+https://blog.pusher.com/web-application-laravel-vue-part-4/
